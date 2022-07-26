@@ -1,0 +1,8 @@
+_id: wrk_56f0cf05b9f741ee87c62774dc650b3e
+type: Workspace
+parentId: null
+modified: 1658846213356
+created: 1658842073532
+name: deposits-rpc 1.0
+description: JSON RPC Deposits nodule API
+scope: design
